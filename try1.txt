@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 HEAD
 hello everyone
 =======
 hello
 activity2
+=======
+>>>>>>> parent of afb29aa (new changes)
