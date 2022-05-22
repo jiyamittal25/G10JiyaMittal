@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ow are you
 =======
 hello , this is a try file
 activity2
+=======
+>>>>>>> parent of afb29aa (new changes)
 =======
 >>>>>>> parent of afb29aa (new changes)
